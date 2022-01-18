@@ -3,7 +3,7 @@ body{
 }
 #mainPanel{
 	max-width: 240px;
-	margin: 0 auto;
+	margin: 200px auto;
 	background-color: rgb(172, 174, 175);
 	border: 5px solid rgb(165, 175, 186);
 	border-radius: 10px;
@@ -22,7 +22,7 @@ body{
 	font-size: 20px;
 }
 #resultPanel{
-	background-color: #99ff99;
+	background-color: #89cc89;
 	text-align: right;
 	padding-right: 10px;
 	border-radius: 10px;
